@@ -31,7 +31,7 @@
                 branch 'master'
             }
             steps{
-                sh "rsync -a /var/lib/jenkins/workspace/netCoreAPI_master/Output/ /home/speedy/Documents/mynetcoredll"
+                sh "rsync -a /var/lib/jenkins/workspace/netCoreAPI_master/Output/ speedy@localhost:/home/speedy/Documents/mynetcoredll"
             }
         }
         stage('Shell'){
