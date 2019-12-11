@@ -39,7 +39,7 @@
                 branch 'master'
             }
             steps{
-                sh "ssh speedy@localhost /home/speedy/Documents/myshell/./svc.sh /home/speedy/Documents/mynetcoredll/servicejson.json"
+                sh "ssh speedy@localhost /home/speedy/Documents/myshell/./svc.sh /home/speedy/Documents/mynetcoredll/servicejson.json mynetcore"
             }
         }
     }
