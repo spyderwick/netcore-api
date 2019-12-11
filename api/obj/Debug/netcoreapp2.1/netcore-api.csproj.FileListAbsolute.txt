@@ -1,0 +1,14 @@
+/home/speedy/Documents/netcore-api/api/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/home/speedy/Documents/netcore-api/api/bin/Debug/netcoreapp2.1/netcore-api.deps.json
+/home/speedy/Documents/netcore-api/api/bin/Debug/netcoreapp2.1/netcore-api.runtimeconfig.json
+/home/speedy/Documents/netcore-api/api/bin/Debug/netcoreapp2.1/netcore-api.runtimeconfig.dev.json
+/home/speedy/Documents/netcore-api/api/bin/Debug/netcoreapp2.1/netcore-api.dll
+/home/speedy/Documents/netcore-api/api/bin/Debug/netcoreapp2.1/netcore-api.pdb
+/home/speedy/Documents/netcore-api/api/obj/Debug/netcoreapp2.1/netcore-api.csprojAssemblyReference.cache
+/home/speedy/Documents/netcore-api/api/obj/Debug/netcoreapp2.1/netcore-api.RazorAssemblyInfo.cache
+/home/speedy/Documents/netcore-api/api/obj/Debug/netcoreapp2.1/netcore-api.RazorAssemblyInfo.cs
+/home/speedy/Documents/netcore-api/api/obj/Debug/netcoreapp2.1/netcore-api.AssemblyInfoInputs.cache
+/home/speedy/Documents/netcore-api/api/obj/Debug/netcoreapp2.1/netcore-api.AssemblyInfo.cs
+/home/speedy/Documents/netcore-api/api/obj/Debug/netcoreapp2.1/netcore-api.RazorTargetAssemblyInfo.cache
+/home/speedy/Documents/netcore-api/api/obj/Debug/netcoreapp2.1/netcore-api.dll
+/home/speedy/Documents/netcore-api/api/obj/Debug/netcoreapp2.1/netcore-api.pdb
