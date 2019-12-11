@@ -26,8 +26,22 @@
                 //mstest testResultsFile:"**/*.trx", keepLongStdio: true
             }
         }
-        
-    
+        stage('Rsync'){
+            when{
+                branch 'master'
+            }
+            steps{
+                sh "rsync -a /var/lib/jenkins/workspace/netCoreAPI_master/Output/ /home/speedy/Documents/mynetcoredll"
+            }
+        }
+        stage('Shell'){
+            when{
+                branch 'master'
+            }
+            steps{
+                sh "ssh speedy@localhost /home/speedy/Documents/myshell/./svc.sh /home/speedy/Documents/mynetcoredll/servicejson.json"
+            }
+        }
     }
 }
 
